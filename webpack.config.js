@@ -5,5 +5,5 @@ module.exports = {
   output: {
     filename: 'sdk.js',
     path: path.resolve(__dirname, 'dist'),
-  },
+  }
 };
