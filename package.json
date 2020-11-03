@@ -1,6 +1,6 @@
 {
   "name": "learn-sdk",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "学习一个SDK开发",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,7 @@
     "webpack-dev-server": "^3.10.3"
   },
   "dependencies": {
+    "axios": "^0.21.0",
     "clean-webpack-plugin": "^3.0.0",
     "html-webpack-plugin": "^4.5.0"
   }
