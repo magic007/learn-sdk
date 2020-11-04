@@ -22,7 +22,9 @@ npm install learn-sdk
 
 https://github.com/magic007/learn-sdk/wiki
 
-## 基于本源码开发sdk
+## 使用本源码
+
+基于本源码开发sdk
 
 **步骤一**
 
