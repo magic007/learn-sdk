@@ -1,16 +1,16 @@
 {
   "name": "learn-sdk",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "学习一个SDK开发",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack-dev-server --config config/dev.env.js",
-    "build": "webpack --config config/pro.env.js",
-    "watch": "webpack --watch"
+    "build": "webpack --mode production --config config/pro.env.js",
+    "watch": "webpack --mode development --watch"
   },
   "keywords": [
-    "sdk"
+    "sdk,sdk learn,sdk demo"
   ],
   "author": "magic",
   "license": "ISC",
